@@ -1,0 +1,26 @@
+{
+  "title": "Progressive Rock Writing Kit",
+  "study": "pk01",
+  "bpm": 108,
+  "source_audio": "preview/progressive-rock-writing-kit-simple-synth-preview.mp3",
+  "source_audio_sha256": "34515c1a4594b2ab80f0ff7f4439ca3b04dff867639b8567b96e4bcb678fa18d",
+  "source_midi": "midi/pk01-long-ridge/pk01-long-ridge-combined.mid",
+  "source_midi_sha256": "05b640f2085fc8432864d4076786d0533615b59b3d5cf556371f7db5b28b161a",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "442dbb0cc76073ce3f7e3e4fa797b37a1adbae3948011d621a227b01bbe4e417",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "f77c2ec517923ff4306492a268761be53671b3c488c68cbb049732966b6fac34",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "66d2cf06846b9e06a5913e1b19a57d0068029a6744f168722823fadb57f53fc5",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
