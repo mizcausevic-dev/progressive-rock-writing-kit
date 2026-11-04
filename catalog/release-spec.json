@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "progressive-rock-writing-kit",
+  "display_name": "Progressive Rock Writing Kit Studies",
+  "brief_name": "Progressive Rock Writing Kit",
+  "creative_intention": "Contrasting harmonic sections and asymmetric accents within a 4/4 frame.",
+  "rhythmic_direction": "Uneven groupings and shifting syncopation create a developing motif.",
+  "palette": "Keyboard-like chords, bass, lead and original drums.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not claims of cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack progressive-rock-writing-kit",
+  "actual_tempo_bpm": 108,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "pk01",
+      "title": "Long Ridge",
+      "tonic": "D",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "pk02",
+      "title": "Cross Current",
+      "tonic": "F",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "pk03",
+      "title": "Stone Passage",
+      "tonic": "G#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "pk04",
+      "title": "Return Path",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}

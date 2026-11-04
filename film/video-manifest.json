@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/progressive-rock-writing-kit-simple-synth-preview.mp3",
+  "source_audio_sha256": "34515c1a4594b2ab80f0ff7f4439ca3b04dff867639b8567b96e4bcb678fa18d",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "29cf09e669abc6c674bd92c1c4107805ffd29edd2171f79e1dac938ce59700e6",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

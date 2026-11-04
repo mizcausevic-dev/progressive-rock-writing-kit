@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+pk01,Long Ridge,pack-local equal-tempered pitch collection,D,108,4/4,480,32,61440,midi/pk01-long-ridge/pk01-long-ridge-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pk02,Cross Current,pack-local equal-tempered pitch collection,F,108,4/4,480,32,61440,midi/pk02-cross-current/pk02-cross-current-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pk03,Stone Passage,pack-local equal-tempered pitch collection,G#,108,4/4,480,32,61440,midi/pk03-stone-passage/pk03-stone-passage-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pk04,Return Path,pack-local equal-tempered pitch collection,D#,108,4/4,480,32,61440,midi/pk04-return-path/pk04-return-path-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

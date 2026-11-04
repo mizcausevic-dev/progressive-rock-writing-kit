@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/progressive-rock-writing-kit-simple-synth-preview.mp3",
+  "preview_sha256": "34515c1a4594b2ab80f0ff7f4439ca3b04dff867639b8567b96e4bcb678fa18d",
+  "source_midi_path": "midi/pk01-long-ridge/pk01-long-ridge-combined.mid",
+  "source_midi_sha256": "05b640f2085fc8432864d4076786d0533615b59b3d5cf556371f7db5b28b161a",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "pk01",
+    "start_seconds": 0,
+    "end_seconds": 71.111
+  },
+  "measurement": {
+    "sample_peak": 0.151474,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
