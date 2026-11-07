@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 798,
-      "sha256": "e475a530cba3815abe9291f33e8d9c1593602243c8556df63c5a464be96e1f4b"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3920,
-      "sha256": "8652f1660938b12aca7aa2a713ebaef67dabe335cff785b326b3be834a59238a"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/progressive-rock-writing-kit-midi.zip",
-      "bytes": 28882,
-      "sha256": "b523a97ef51d4dc67d56f7e42fd7ff2d16e166f6509437bb1ecc8efff40afa81"
+      "bytes": 31018,
+      "sha256": "2e24ee4f9cb5cdf112a10e5ae08b7f247fc9bcbd4ec7b7c352104d5337b5a249"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 35567,
       "sha256": "787613c39bef336f0532f3ff01bc73f5e3db73fe7e65af8d5480ca6fdfe7d164"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1234358,
-      "sha256": "66d2cf06846b9e06a5913e1b19a57d0068029a6744f168722823fadb57f53fc5"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9691,
-      "sha256": "4ab4abc8013536c31d574eff39c9d0a52d4c13438a1477ffa684a022e255e65d"
+      "bytes": 9881,
+      "sha256": "0f9dc23a24b0dda1e6898abe6b6ad94813fd27b73a4f508a1ff4baadcc5aab8a"
     },
     {
       "path": "midi/pk01-long-ridge/chord_pulse.mid",
@@ -402,6 +387,16 @@
       "sha256": "4110e432082db516bf8d587acfcb71c150b0144085cc554115fe8cc301108fcf"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 798,
+      "sha256": "e475a530cba3815abe9291f33e8d9c1593602243c8556df63c5a464be96e1f4b"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1139,
       "sha256": "1c6bb83c64c64e5bbe31ed4be520f14f84d40b3b40dc41c4ca0bd77f326311c3"
@@ -410,6 +405,11 @@
       "path": "preview/progressive-rock-writing-kit-simple-synth-preview.mp3",
       "bytes": 1720364,
       "sha256": "34515c1a4594b2ab80f0ff7f4439ca3b04dff867639b8567b96e4bcb678fa18d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4035,
+      "sha256": "1efce3c3f236e10467981e90447a8572ebc6ffe9eb36ab3b5a498df7d253f94f"
     },
     {
       "path": "social/instagram/caption.txt",
